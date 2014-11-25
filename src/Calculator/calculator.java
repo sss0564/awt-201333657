@@ -215,7 +215,6 @@ class Design extends JFrame {
 		}
 	}
 }
-
 public class calculator {
 	public static void main(String[] args) {
 		Design ds = new Design();
